@@ -1,0 +1,682 @@
+[14-Jul-2012 14:03:20] PHP Warning:  require(inc-class-phrets.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/naturmls/public_html/test-connect.php on line 8
+[14-Jul-2012 14:03:20] PHP Warning:  require(inc-class-phrets.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/naturmls/public_html/test-connect.php on line 8
+[14-Jul-2012 14:03:20] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'inc-class-phrets.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/naturmls/public_html/test-connect.php on line 8
+[28-Jul-2012 17:39:02] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/naturmls/public_html/inc-class-phrets.php on line 1417
+[28-Jul-2012 17:39:02] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/naturmls/public_html/inc-class-phrets.php on line 1419
+[28-Jul-2012 17:39:02] PHP Warning:  curl_exec(): 2 is not a valid cURL handle resource in /home/naturmls/public_html/inc-class-phrets.php on line 1421
+[28-Jul-2012 17:39:02] PHP Warning:  curl_getinfo(): 2 is not a valid cURL handle resource in /home/naturmls/public_html/inc-class-phrets.php on line 1422
+[04-Aug-2012 21:38:33] PHP Warning:  fopen(data/property_commercialproperty.csv) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/naturmls/public_html/test.php on line 72
+[04-Aug-2012 21:38:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/naturmls/public_html/test.php on line 114
+[12-Nov-2012 20:37:41 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/naturmls/public_html/rets-data-import.php on line 57
+[12-Nov-2012 20:38:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/naturmls/public_html/rets-data-import.php on line 74
+[12-Nov-2012 21:10:16 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/naturmls/public_html/rets-data-import.php on line 195
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:55:45 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:59:07 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/naturmls/public_html/import_auto.php on line 45
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fwrite(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 145
+[19-Nov-2012 23:59:28 UTC] PHP Warning:  fclose(): 2 is not a valid stream resource in /home/naturmls/public_html/import_auto.php on line 146
+[20-Nov-2012 02:51:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/naturmls/public_html/rets-data-import.php on line 207
+[24-Nov-2012 15:07:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/naturmls/public_html/inc-class-phrets.php on line 1390
+[24-Nov-2012 15:07:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/naturmls/public_html/inc-class-phrets.php on line 1390
+[24-Nov-2012 15:07:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/naturmls/public_html/inc-class-phrets.php on line 1390
+[24-Nov-2012 15:07:57 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/naturmls/public_html/inc-class-phrets.php on line 1390
+[24-Nov-2012 16:44:35 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/naturmls/public_html/rets-data-import.php on line 139
+[24-Nov-2012 19:25:25 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/naturmls/public_html/agents-list.php on line 51
+[24-Nov-2012 21:14:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/naturmls/public_html/listings.php on line 337
+[24-Nov-2012 21:26:53 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 604
+[24-Nov-2012 21:30:07 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 604
+[24-Nov-2012 21:30:23 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 604
+[24-Nov-2012 21:31:38 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 604
+[24-Nov-2012 21:42:59 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:44:05 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:45:12 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:45:31 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:46:32 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:48:08 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:48:39 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 21:49:18 UTC] PHP Warning:  mysql_free_result(): 5 is not a valid MySQL result resource in /home/naturmls/public_html/listings.php on line 675
+[24-Nov-2012 22:24:33 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/naturmls/public_html/test.php on line 3
+[20-Apr-2013 14:26:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 216
+[20-Apr-2013 14:26:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 620
+[25-Apr-2013 01:52:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 216
+[25-Apr-2013 01:52:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 620
+[25-Apr-2013 02:16:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 623
+[25-Apr-2013 02:20:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 623
+[25-Apr-2013 02:37:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 623
+[11-May-2013 13:43:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 623
+[11-May-2013 13:51:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 630
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 66
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 67
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 110
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 110
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 111
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 114
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 114
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 449
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 449
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 450
+[11-May-2013 15:22:05 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 554
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 66
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 67
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 110
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 110
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 111
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 114
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 114
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 449
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 449
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 450
+[11-May-2013 15:26:35 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 554
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 112
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 112
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 113
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 116
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 116
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 451
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 451
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 452
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 541
+[11-May-2013 15:34:26 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 556
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 480
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 569
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 572
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 575
+[11-May-2013 15:46:40 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 584
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 480
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 576
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 579
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 582
+[11-May-2013 15:50:09 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 591
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 480
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 576
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 579
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 582
+[11-May-2013 15:53:06 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 591
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 480
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 583
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 586
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 589
+[11-May-2013 15:59:42 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/details_residential.php on line 598
+[11-May-2013 16:09:56 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 16:09:56 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/details_residential.php on line 479
+[11-May-2013 16:09:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/details_residential.php on line 480
+[11-May-2013 16:28:55 UTC] PHP Fatal error:  Function name must be a string in /home/naturmls/public_html/details_residential.php on line 456
+[12-May-2013 00:54:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/naturmls/public_html/details_residential.php on line 463
+[12-May-2013 01:04:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/functions.php on line 85
+[12-May-2013 02:15:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/naturmls/public_html/search.php on line 215
+[12-May-2013 02:16:45 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/naturmls/public_html/search.php on line 359
+[12-May-2013 02:20:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/naturmls/public_html/search.php on line 215
+[12-May-2013 02:21:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/naturmls/public_html/search.php on line 215
+[12-May-2013 02:32:56 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/naturmls/public_html/search.php on line 431
+[12-May-2013 02:33:05 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/naturmls/public_html/search.php on line 431
+[12-May-2013 17:02:16 UTC] PHP Fatal error:  Call to a member function GetMetadataTypes() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 32
+[12-May-2013 20:39:52 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/naturmls/public_html/functions.php on line 110
+[12-May-2013 20:40:17 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE or '$' in /home/naturmls/public_html/functions.php on line 110
+[12-May-2013 20:52:20 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:20 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:20 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:21 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:21 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:21 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:21 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:21 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:21 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:22 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:22 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:22 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:22 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:23 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:23 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:23 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:24 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:24 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:24 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:24 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:25 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:25 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:25 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:25 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:25 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:25 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:26 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:26 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:26 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:26 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:26 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:27 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:27 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:27 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:27 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:28 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:28 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:28 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:28 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:29 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:29 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:29 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:29 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:30 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:30 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:30 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:30 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:31 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:31 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:31 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:31 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:32 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:32 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:32 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:33 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:33 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:33 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:33 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:34 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:34 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:34 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:34 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:34 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:35 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:35 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:35 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:35 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:35 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:36 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:36 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:36 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:36 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:36 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:37 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:37 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:37 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:37 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:38 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:38 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:52:38 UTC] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/naturmls/public_html/functions.php on line 199
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 200
+[12-May-2013 20:52:38 UTC] PHP Warning:  Division by zero in /home/naturmls/public_html/functions.php on line 201
+[12-May-2013 20:58:09 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ';' in /home/naturmls/public_html/functions.php on line 182
+[12-May-2013 21:12:48 UTC] PHP Fatal error:  Call to a member function GetObject() on a non-object in /home/naturmls/public_html/functions.php on line 112
+[12-May-2013 21:27:32 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:28:52 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:31:10 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:31:18 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:33:32 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:36:17 UTC] PHP Fatal error:  Cannot redeclare class phRETS in /home/naturmls/public_html/inc-class-phrets.php on line 3
+[12-May-2013 21:41:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'agent_id' in 'where clause'' in /home/naturmls/public_html/search.php:429
+Stack trace:
+#0 /home/naturmls/public_html/search.php(429): PDOStatement->execute(Array)
+#1 /home/naturmls/public_html/test.php(11): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/search.php on line 429
+[12-May-2013 21:41:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'agent_id' in 'where clause'' in /home/naturmls/public_html/search.php:429
+Stack trace:
+#0 /home/naturmls/public_html/search.php(429): PDOStatement->execute(Array)
+#1 /home/naturmls/public_html/test.php(11): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/search.php on line 429
+[29-May-2013 20:34:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'naturmls_citrusmls.$tbl_idx_business_op' doesn't exist' in /home/naturmls/public_html/details_business_op.php:69
+Stack trace:
+#0 /home/naturmls/public_html/details_business_op.php(69): PDOStatement->execute()
+#1 {main}
+  thrown in /home/naturmls/public_html/details_business_op.php on line 69
+[15-Jun-2013 16:00:43 UTC] PHP Fatal error:  Call to undefined function lightBox() in /home/naturmls/public_html/details_business_op.php on line 266
+[15-Jun-2013 16:49:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 65011715 bytes) in /home/naturmls/public_html/details_business_op.php on line 279
+[18-Jun-2013 20:10:30 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[18-Jun-2013 20:14:48 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[19-Jun-2013 18:51:45 UTC] PHP Fatal error:  Cannot use [] for reading in /home/naturmls/public_html/details_business_op.php on line 301
+[27-Jun-2013 16:18:32 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[27-Jun-2013 16:21:48 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[29-Jun-2013 13:22:29 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/listings.php on line 296
+[29-Jun-2013 13:22:29 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/listings.php on line 296
+[29-Jun-2013 13:22:29 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 682
+[29-Jun-2013 14:18:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/listings.php on line 285
+[29-Jun-2013 14:18:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/listings.php on line 285
+[29-Jun-2013 14:18:46 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/naturmls/public_html/listings.php on line 671
+[29-Jun-2013 14:22:33 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/listings.php on line 285
+[29-Jun-2013 14:22:33 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/listings.php on line 285
+[29-Jun-2013 14:22:33 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/naturmls/public_html/listings.php on line 671
+[29-Jun-2013 14:22:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/listings.php on line 288
+[29-Jun-2013 14:22:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/listings.php on line 288
+[29-Jun-2013 14:22:46 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 674
+[29-Jun-2013 14:35:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'naturmls'@'localhost' (using password: NO) in /home/naturmls/public_html/listings.php on line 288
+[29-Jun-2013 14:35:03 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/naturmls/public_html/listings.php on line 288
+[29-Jun-2013 14:35:03 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 674
+[29-Jun-2013 14:50:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/naturmls/public_html/listings.php on line 333
+[29-Jun-2013 14:50:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(8): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[29-Jun-2013 15:27:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(8): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[21-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[22-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[23-Jul-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[24-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[25-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[26-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[27-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[28-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[31-Jul-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[02-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[03-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[04-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[05-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[06-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[07-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[08-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[09-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[10-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[11-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[12-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[13-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[14-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[15-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[16-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[17-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[18-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[19-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[20-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[21-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[22-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[23-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[24-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[25-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[26-Aug-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[27-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[28-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Aug-2013 13:59:10 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 13:59:24 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 13:59:51 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:02:53 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:02:54 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:02:55 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:03:15 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/listings.php on line 288
+[30-Aug-2013 14:14:34 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:15:01 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:26:06 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 163
+[30-Aug-2013 14:27:59 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 163
+[30-Aug-2013 14:29:10 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:49:57 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:49:59 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 14:53:52 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:15:36 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:22:53 America/New_York] PHP Fatal error:  Class 'dbconn' not found in /home/naturmls/public_html/search.php on line 66
+[30-Aug-2013 15:23:50 America/New_York] PHP Fatal error:  Class 'dbconn' not found in /home/naturmls/public_html/search.php on line 69
+[30-Aug-2013 15:27:38 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 163
+[30-Aug-2013 15:33:52 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:35:26 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:36:59 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:37:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:47:23 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:49:42 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:52:23 America/New_York] PHP Parse error:  syntax error, unexpected T_GLOBAL in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:52:43 America/New_York] PHP Parse error:  syntax error, unexpected T_GLOBAL in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 15:53:03 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:18:41 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:18:44 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:18:45 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:31:49 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:31:50 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:31:51 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:31:52 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:33:57 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:33:58 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:34:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:36:10 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 160
+[30-Aug-2013 16:39:46 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[30-Aug-2013 16:39:47 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[30-Aug-2013 16:39:48 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[31-Aug-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Sep-2013 18:22:03 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[01-Sep-2013 19:12:09 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[01-Sep-2013 19:12:23 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/listings.php on line 288
+[01-Sep-2013 19:17:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/listings.php on line 288
+[01-Sep-2013 19:17:05 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/search.php on line 161
+[01-Sep-2013 19:42:59 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(8): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[01-Sep-2013 19:45:22 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Sep-2013 19:46:36 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Sep-2013 19:46:37 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(8): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[01-Sep-2013 19:53:41 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Sep-2013 20:00:48 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[02-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[03-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[04-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[05-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[06-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[07-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[08-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[09-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[10-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[11-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[12-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[13-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[14-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[15-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[16-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[17-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[18-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[19-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[20-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[21-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[22-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[23-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[24-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[25-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[26-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[27-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[28-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Sep-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Sep-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Oct-2013 09:16:25 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:17:15 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:20:38 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:20:46 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:20:53 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:31:33 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[01-Oct-2013 09:38:20 America/New_York] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[02-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[03-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[04-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[05-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[06-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[07-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[08-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[09-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[10-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[11-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[12-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[13-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[14-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[15-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[16-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[17-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[18-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[19-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[20-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[21-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[22-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[23-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[24-Oct-2013 05:01:04 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[25-Oct-2013 05:01:05 America/New_York] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[26-Oct-2013 09:01:06 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[27-Oct-2013 09:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[28-Oct-2013 09:01:07 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Oct-2013 09:01:07 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Oct-2013 09:01:08 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[31-Oct-2013 09:01:08 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Nov-2013 09:01:07 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[02-Nov-2013 09:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[03-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[04-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[05-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[06-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[07-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[08-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[09-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[10-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[11-Nov-2013 10:01:06 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[12-Nov-2013 10:01:07 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[13-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[14-Nov-2013 10:01:06 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[15-Nov-2013 10:01:06 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[16-Nov-2013 10:01:07 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[17-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[18-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[19-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[20-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[21-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[22-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[23-Nov-2013 10:01:06 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[24-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[25-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[26-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[27-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[28-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Nov-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Nov-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[30-Nov-2013 15:27:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:29:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:29:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:29:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:29:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:30:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:30:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:30:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firm_id' in 'where clause'' in /home/naturmls/public_html/listings.php:290
+Stack trace:
+#0 /home/naturmls/public_html/listings.php(290): PDOStatement->execute(NULL)
+#1 /home/naturmls/public_html/test-listings.php(18): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/listings.php on line 290
+[30-Nov-2013 15:42:36 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 15:48:04 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 15:49:01 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 16:02:19 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 16:02:31 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 16:28:56 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 18:46:56 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 661
+[30-Nov-2013 18:49:28 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 661
+[30-Nov-2013 18:49:45 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 18:50:49 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 105
+[30-Nov-2013 18:52:17 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[01-Dec-2013 10:01:04 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[02-Dec-2013 10:01:05 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[07-Dec-2013 00:12:14 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 182
+[07-Dec-2013 00:20:41 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 661
+[07-Dec-2013 01:26:24 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/naturmls/public_html/functions.php on line 111
+[07-Dec-2013 01:26:42 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting T_VARIABLE or '$' in /home/naturmls/public_html/functions.php on line 111
+[07-Dec-2013 01:53:25 UTC] PHP Fatal error:  Call to undefined function photoCheck() in /home/naturmls/public_html/search.php on line 471
+[07-Dec-2013 01:54:30 UTC] PHP Fatal error:  Call to undefined function photo_exists() in /home/naturmls/public_html/functions.php on line 168
+[07-Dec-2013 01:56:03 UTC] PHP Fatal error:  Call to undefined method Functions::getimagesize() in /home/naturmls/public_html/functions.php on line 156
+[07-Dec-2013 03:07:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Bedrooms' in 'where clause'' in /home/naturmls/public_html/search.php:451
+Stack trace:
+#0 /home/naturmls/public_html/search.php(451): PDOStatement->execute(Array)
+#1 /home/naturmls/public_html/test.php(20): include('/home/naturmls/...')
+#2 {main}
+  thrown in /home/naturmls/public_html/search.php on line 451
+[07-Dec-2013 12:49:32 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 661
+[07-Dec-2013 14:27:53 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 661
+[15-Dec-2013 10:04:08 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[29-Jan-2014 10:04:18 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 35
+[30-Jan-2014 10:04:22 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 35
+[13-Feb-2014 10:12:57 UTC] PHP Fatal error:  Call to a member function Error() on a non-object in /home/naturmls/public_html/rets-data-import.php on line 37
+[18-Feb-2014 02:27:47 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 690
+[18-Feb-2014 02:40:23 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/naturmls/public_html/listings.php on line 654
+[18-Feb-2014 03:15:05 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 109
+[18-Feb-2014 03:16:53 UTC] PHP Fatal error:  Call to a member function Disconnect() on a non-object in /home/naturmls/public_html/functions.php on line 109
+[18-Feb-2014 22:45:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[18-Feb-2014 22:45:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[20-Feb-2014 12:27:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[20-Feb-2014 12:27:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[20-Feb-2014 12:30:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[20-Feb-2014 12:30:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[22-Feb-2014 13:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[22-Feb-2014 13:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[22-Feb-2014 13:25:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[22-Feb-2014 13:25:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[22-Feb-2014 13:26:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[22-Feb-2014 13:26:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:13:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:13:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:13:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:13:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:14:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:14:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:15:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:15:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:16:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:16:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:17:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:17:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 16:46:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 16:46:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 19:20:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 19:20:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 19:21:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 19:21:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[24-Feb-2014 19:24:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 74
+[24-Feb-2014 19:24:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/naturmls/public_html/contact_agent.php on line 78
+[27-Feb-2014 17:27:27 UTC] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home/naturmls/public_html/rets-data-import.php on line 122
+[10-Mar-2014 15:43:01 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/naturmls/public_html/contact_agent.php on line 80
+[19-Mar-2014 12:35:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[20-Mar-2014 16:04:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[20-Mar-2014 16:04:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[20-Mar-2014 16:04:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[20-Mar-2014 16:05:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[20-Mar-2014 16:05:22 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69
+[21-Mar-2014 15:21:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_commercial.php on line 69
+[21-Mar-2014 18:03:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/naturmls/public_html/details_residential.php on line 69

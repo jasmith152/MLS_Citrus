@@ -1,0 +1,66 @@
+--------------------------------------------------------------
+2014-03-19 19:39
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2699 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12571 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7906 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4767 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+436 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+Cannot write to file (/home/naturmls/public_html/data/idx_multi_res.txt)
+--------------------------------------------------------------
+2014-03-19 19:45
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2699 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12571 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7904 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4769 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+436 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+Cannot write to file (marion rets import: /home/naturmls/public_html/data/idx_multi_res.txt)
+--------------------------------------------------------------
+2014-03-19 22:17
+Connected to RETS server and downloaded:
+office_office.csv
+agent_agent.csv
+property_residentialproperty.csv
+property_vacantland.csv
+property_commercialproperty.csv
+property_multifamily.csv
+property_businessopportunity.csv
+property_rental.csv
+2699 records successfully imported into tbl_temp_idx_office.
+New data merged into tbl_idx_office successfully.
+12571 records successfully imported into tbl_temp_idx_agent.
+New data merged into tbl_idx_agent successfully.
+7908 records successfully imported into tbl_temp_idx_residential.
+New data merged into tbl_idx_residential successfully.
+4769 records successfully imported into tbl_temp_idx_vacant_land.
+New data merged into tbl_idx_vacant_land successfully.
+438 records successfully imported into tbl_temp_idx_commercial.
+New data merged into tbl_idx_commercial successfully.
+Cannot write to file (marion rets import: /home/naturmls/public_html/data/idx_multi_res.txt)

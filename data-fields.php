@@ -1,0 +1,29 @@
+<?php
+// General data fields used for every property type 
+$db_listing_agent_id = "ListingAgentID";
+$db_listing_firm_id = "ListingFirmID";
+$db_listing_office_id = "ListingOfficeID";
+$db_mls_id = "ListingID";
+$db_agent_id = "agent_id";
+$db_firm_id = "firm_id";
+$db_office_id = "off_id";
+$db_firm_name = "name";
+$db_firm_email = "email_leads";
+$db_firm_website = "website1";
+$db_firm_address = "address1";
+$db_firm_address2 = "address2";
+$db_firm_city = "city";
+$db_firm_state = "state";
+$db_firm_zip = "zip";
+$db_firm_phone = "phone1";
+$db_firm_phone2 = "phone2";
+$db_agent_fname = "fname";
+$db_agent_lname = "lname";
+$db_agent_phone = "phone1";
+$db_agent_phone2 = "phone2";
+$db_agent_fax = "fax";
+$db_agent_email = "email_leads";
+$db_agent_website = "website1";
+$db_agent_website2 = "website2";
+$db_agent_title = "title";
+$db_agent_credentials = "credentials";
